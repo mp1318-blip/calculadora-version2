@@ -39,7 +39,7 @@ if menu == "Inicio":
     st.title(" Calculadora Matemática Completa")
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.image(r"C:\Users\mp1318\Desktop\weas de c++\unidad 5\limites.jpg")
+        st.image("https://miprofe.com/evaluacion-de-limites.png")
         st.caption("LÍMITES")
     with col2:
         st.image(r"C:\Users\mp1318\Desktop\weas de c++\unidad 5\inte.png", width=400)
