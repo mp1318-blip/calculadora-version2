@@ -42,10 +42,10 @@ if menu == "Inicio":
         st.image("https://miprofe.com/evaluacion-de-limites.png")
         st.caption("LÍMITES")
     with col2:
-        st.image(r"C:\Users\mp1318\Desktop\weas de c++\unidad 5\inte.png", width=400)
+        st.image("https://www.google.com/imgres?q=doro%20dibujo&imgurl=https%3A%2F%2Fi.pinimg.com%2F236x%2F9e%2F93%2F27%2F9e932754848d225b08bcd398491884d7.jpg&imgrefurl=https%3A%2F%2Fmx.pinterest.com%2Ferikgonzales20007%2Fdoro%2F&docid=ihR7Lwbhl5xhRM&tbnid=qbbZpOD4nWwMhM&vet=12ahUKEwiY46WUtp6VAxWOqZUCHfioI98QnPAOegQIOxAA..i&w=235&h=276&hcb=2&ved=2ahUKEwiY46WUtp6VAxWOqZUCHfioI98QnPAOegQIOxAA.jpg", width=400)
         st.caption("INTEGRALES") 
     with col3:
-        st.image(r"C:\Users\mp1318\Desktop\weas de c++\unidad 5\geo.png", width=700)
+        st.image("https://www.tiktok.com/discover/contexto-del-meme-de-doro-nikke.jpg", width=700)
         st.caption("GEOMETRÍA ANALÍTICA")
 
 # menu de limites 
